@@ -17,17 +17,17 @@ During the workshop, you will use Theia-based Online IDE for GitHub - [Gitpod](h
 To start with the exercises you only need a modern browser. For the best experience, please use [Chrome](https://www.google.com/chrome/).
 You can open any branch on GitHub by prefixing its URL with `gitpod.io#`.
 For example, to open Gitpod for the exercise 0:
-- go to the exercise's branch - https://github.com/akosyakov/theia-training/tree/exercise-0
-- prefix it with `gitpod.io#` - [https://gitpod.io#https://github.com/akosyakov/theia-training/tree/exercise-0](https://gitpod.io/#https://github.com/akosyakov/theia-training/tree/exercise-0)
+- go to the exercise's branch - https://github.com/jbicker/theia-training/tree/exercise-0
+- prefix it with `gitpod.io#` - [https://gitpod.io#https://github.com/jbicker/theia-training/tree/exercise-0](https://gitpod.io/#https://github.com/jbicker/theia-training/tree/exercise-0)
 
-### [Exercise 0: Build Theia Application](https://github.com/akosyakov/theia-training/blob/exercise-0/EXERCISE.md#exercise-0-build-theia-application)
+### [Exercise 0: Build Theia Application](https://github.com/jbicker/theia-training/blob/exercise-0/EXERCISE.md#exercise-0-build-theia-application)
 
 In this exercise, you learn:
 - the structure of a Theia extension project;
 - how to create a Theia application, build and run it;
 - how to configure a Theia extension with dependency injection.
 
-### [Exercise 1: Implement Quick File](https://github.com/akosyakov/theia-training/tree/exercise-1#exercise-1-implement-quick-file)
+### [Exercise 1: Implement Quick File](https://github.com/jbicker/theia-training/tree/exercise-1#exercise-1-implement-quick-file)
 
 In this exercise, you learn:
 - frontend and backend application lifecycle and contributions;
@@ -35,7 +35,7 @@ In this exercise, you learn:
 - how to use the command palette and the status bar;
 - how to open files.
 
-### [Exercise 2: Implement File List View](https://github.com/akosyakov/theia-training/tree/exercise-2#exercise-2-implement-file-list-view)
+### [Exercise 2: Implement File List View](https://github.com/jbicker/theia-training/tree/exercise-2#exercise-2-implement-file-list-view)
 
 In this exercise, you learn:
 - what is a widget and its lifecycle hooks;
@@ -43,28 +43,28 @@ In this exercise, you learn:
 - how to render in React;
 - how to preserve a widget state between reloads.
 
-### [Exercise 3: Implement File List View JSON-RPC Service](https://github.com/akosyakov/theia-training/tree/exercise-3#exercise-3-implement-file-list-view-json-rpc-service)
+### [Exercise 3: Implement File List View JSON-RPC Service](https://github.com/jbicker/theia-training/tree/exercise-3#exercise-3-implement-file-list-view-json-rpc-service)
 
 In this exercise, you learn:
 - how to add a new JSON-RPC service;
 - how to handle reconnections;
 - what is the connection scoping and how to work with multiple windows.
 
-### [Exercise 4: Implement JSON-Form Widget Open Handler](https://github.com/akosyakov/theia-training/tree/exercise-4#exercise-4-implement-json-form-widget-open-handler)
+### [Exercise 4: Implement JSON-Form Widget Open Handler](https://github.com/jbicker/theia-training/tree/exercise-4#exercise-4-implement-json-form-widget-open-handler)
 
 In this exercise, you learn:
 - how to add a new open handler;
 - how to configure and use preferences;
 - what is the navigatable widget and how to implement one.
 
-### [Exercise 5: Implement a Language Server](https://github.com/akosyakov/theia-training/tree/exercise-5#exercise-5-implement-a-language-server)
+### [Exercise 5: Implement a Language Server](https://github.com/jbicker/theia-training/tree/exercise-5#exercise-5-implement-a-language-server)
 
 In this exercise, you learn:
 - what is a language server protocol (LSP);
 - how to integrate a language server via a native Theia extension;
 - how to integrate a language server via a VS Code extension.
 
-### [Exercise 6: Style and white-label Theia application](https://github.com/akosyakov/theia-training/tree/exercise-6#exercise-6-style-and-white-label-theia-application)
+### [Exercise 6: Style and white-label Theia application](https://github.com/jbicker/theia-training/tree/exercise-6#exercise-6-style-and-white-label-theia-application)
 
 In this exercise, you learn:
 - how to customize the default layout;
