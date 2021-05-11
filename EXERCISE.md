@@ -1,6 +1,6 @@
 # Exercise 0: Build Theia Application
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/akosyakov/theia-training/tree/exercise-0)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/jbicker/theia-training/tree/exercise-0)
 
 In this exercise, you learn:
 - the structure of a Theia extension project;
